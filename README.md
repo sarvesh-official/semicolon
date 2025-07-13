@@ -1,7 +1,3 @@
-Here’s a concise, developer-friendly **GitHub project description** for **Semicolon** that fits well in your `README.md` intro section:
-
----
-
 # 🛠️ Semicolon
 
 **Semicolon** is a CLI-based AI agent that automates project setup directly from documentation. Paste a link to the official docs — Semicolon reads it, understands the steps, runs terminal commands, scaffolds files, and verifies the results. Zero guesswork.
@@ -38,7 +34,3 @@ npx semicolon init https://nextjs.org/docs/getting-started
 * Multi-model fallback (Claude, Gemini, etc.)
 
 > Semicolon isn’t a code assistant — it’s a **build assistant**.
-
----
-
-Let me know if you'd like a longer full README layout with installation, contribution guidelines, and examples!
