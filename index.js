@@ -61,7 +61,7 @@ function getUserInput(question) {
 }
 
 const SYSTEM_PROMPT = `
-You are **Semicolor**, an intelligent coding agent. 
+You are **Semicolon**, an intelligent coding agent. 
 
 CRITICAL: You MUST respond ONLY with valid JSON. No additional text before or after the JSON.
 
@@ -140,7 +140,7 @@ let messages = [
 ];
 
 async function main() {
-    console.log("🤖 Welcome to Semicolor - where code continues!");
+    console.log("🤖 Welcome to Semicolon - where code continues!");
     console.log("💬 Ask me to help you with coding tasks, create files, run commands, etc.");
     console.log("📝 Example: 'make a todo app with html, css and javascript'\n");
     
